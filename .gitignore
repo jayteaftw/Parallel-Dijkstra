@@ -1,0 +1,5 @@
+*.graph
+*.out
+pr3.pdf
+dijkstra
+dijkstra_omp
